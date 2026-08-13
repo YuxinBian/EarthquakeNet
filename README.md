@@ -5,9 +5,6 @@
 *2024 IEEE International Conference on Image Processing (ICIP)*
   
 <a href="https://doi.org/10.1109/ICIP51287.2024.10648157" target="\_blank" rel="noopener noreferrer">  
-  <img src="https://img.shields.io/badge/Paper-IEEE%20Xplore-blue" alt="Paper">  
-</a>  
-<a href="https://doi.org/10.1109/ICIP51287.2024.10648157" target="\_blank" rel="noopener noreferrer">  
   <img src="https://img.shields.io/badge/DOI-10.1109%2FICIP51287.2024.10648157-blue" alt="DOI">  
 </a>  
 <a href="https://huggingface.co/datasets/YXBIAN/EarthquakeNet" target="\_blank" rel="noopener noreferrer">  
@@ -27,8 +24,9 @@
 
 ## 📰 News
 
-- [2024] Our paper is published in [2024 IEEE International Conference on Image Processing (ICIP)](https://doi.org/10.1109/ICIP51287.2024.10648157).
-- [2024] The dataset is released on [Hugging Face](https://huggingface.co/datasets/YXBIAN/EarthquakeNet).
+- [2024.10.30] The dataset is released on [Hugging Face](https://huggingface.co/datasets/YXBIAN/EarthquakeNet).
+- [2024.10.27] Our paper is published in [2024 IEEE International Conference on Image Processing (ICIP)](https://doi.org/10.1109/ICIP51287.2024.10648157).
+- [2024.6.7] Our manuscript has been accepted for presentation at IEEE ICIP 2024.
 
 ## 📝 Abstract
 
@@ -96,7 +94,7 @@ If you use EarthquakeNet in your research, please cite:
 
 ## 📄 License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This dataset is released under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license.
 
 ## 📧 Contact
 
