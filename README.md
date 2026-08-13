@@ -25,9 +25,9 @@
 ## 📰 News
 
 - [2024.10.30] The dataset is released on [Hugging Face](https://huggingface.co/datasets/YXBIAN/EarthquakeNet).
-- [2024.10.27] Our paper is published in [2024 IEEE International Conference on Image Processing (ICIP)](https://doi.org/10.1109/ICIP51287.2024.10648157).
-- [2024.6.7] Our manuscript has been accepted for presentation at IEEE ICIP 2024.
-
+- [2024.10.27] Our paper is published in [IEEE Xplore](https://doi.org/10.1109/ICIP51287.2024.10648157).
+- [2024.6.7] Our manuscript has been accepted for presentation at [IEEE ICIP 2024](https://cmsworkshops.com/ICIP2024/view_paper.php?PaperNum=1825
+).
 ## 📝 Abstract
 
 Advancements in computer vision and deep learning have significantly propelled progress in scene understanding, aiding rescue teams in accurately assessing damage after natural disasters. In this paper, we introduce EarthquakeNet, a meticulously curated high-resolution post-earthquake dataset featuring detailed classification and semantic segmentation annotations, designed to enhance comprehensive scene understanding following natural disasters. EarthquakeNet comprises post-disaster images captured using unmanned aerial vehicles (UAVs) from multiple affected areas after an earthquake. The uniqueness of EarthquakeNet lies in providing high-resolution post-disaster imagery, each with exhaustive annotations. Unlike existing datasets that offer annotations for specific scene elements like buildings, EarthquakeNet provides pixel-level annotations for a broader range of categories, including roads, houses, and tents. We also demonstrate the utility of the dataset by implementing state-of-the-art segmentation models on EarthquakeNet, showcasing its value in improving existing methods for natural disaster damage assessment.
