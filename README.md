@@ -22,6 +22,11 @@
 <sup>b</sup> Faculty of Science, The University of Hong Kong, Pokfulam, Hong Kong.  
 </div>
 
+<div align="center">
+  <img src="./image/sample_annotations.png" width="95%">
+  <br>
+</div>
+
 ## 📰 News
 
 - [2024.9.30] The dataset is released on [Hugging Face](https://huggingface.co/datasets/YXBIAN/EarthquakeNet).
@@ -38,6 +43,12 @@ Advancements in computer vision and deep learning have significantly propelled p
 EarthquakeNet is a high-resolution UAV semantic segmentation dataset for post-earthquake damage assessment. It was collected using a fuel-powered fixed-wing UAV equipped with a Canon EOS 5D Mark II camera after the 2013 Lushan Earthquake in Baoxing County, Sichuan Province, China.
 
 The dataset is distributed as `EarthquakeNet_v1.0.zip`. After extraction, it contains training and validation images with pixel-level semantic segmentation annotations for 9 classes (8 foreground + background).
+
+<div align="center">
+  <img src="./image/weather_diversity.png" width="95%">
+  <br>
+  <em>.</em>
+</div>
 
 ### Dataset Statistics
 
