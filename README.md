@@ -94,14 +94,17 @@ If you use EarthquakeNet in your research, please cite:
 ```
 @INPROCEEDINGS{10648157,
   author={Jiang, Shenlu and Bian, Yuxin and Wang, Yiran and Li, Xufeng and Liu, Zhankeng and Ren, Yi and Zhao, Yunxuan},
-  booktitle={2024 IEEE International Conference on Image Processing (ICIP)},
-  title={EarthquakeNet: A High-Resolution UAV-Based Dataset for Earthquake Damage Assessment},
+  booktitle={2024 IEEE International Conference on Image Processing (ICIP)}, 
+  title={EarthquakeNet: A High-Resolution UAV-Based Dataset for Earthquake Damage Assessment}, 
   year={2024},
   volume={},
   number={},
   pages={55-61},
-  doi={10.1109/ICIP51287.2024.10648157}
-}
+  abstract={Advancements in computer vision and deep learning have significantly propelled progress in scene understanding, aiding rescue teams in accurately assessing damage after natural disasters. In this paper, we introduce EarthquakeNet, a meticulously curated high-resolution post-earthquake dataset featuring detailed classification and semantic segmentation annotations, designed to enhance comprehensive scene understanding following natural disasters. EarthquakeNet comprises post-disaster images captured using unmanned aerial vehicles (UAVs) from multiple affected areas after an earthquake. The uniqueness of EarthquakeNet lies in providing high-resolution post-disaster imagery, each with exhaustive annotations. Unlike existing datasets that offer annotations for specific scene elements like buildings, EarthquakeNet provides pixel-level annotations for a broader range of categories, including roads, houses, and tents. We also demonstrate the utility of the dataset by implementing state-of-the-art segmentation models on EarthquakeNet, showcasing its value in improving existing methods for natural disaster damage assessment.},
+  keywords={Deep learning;Computer vision;Image resolution;Annotations;Disasters;Semantic segmentation;Roads;Post-earthquake assesment;Land use detection;Semantic segmentation},
+  doi={10.1109/ICIP51287.2024.10648157},
+  ISSN={2381-8549},
+  month={Oct},}
 ```
 
 ## 📄 License
